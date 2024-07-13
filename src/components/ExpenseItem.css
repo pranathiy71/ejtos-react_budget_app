@@ -1,0 +1,15 @@
+.btn-circle {
+      border-radius: 50%; /* Ensure it's circular */
+      width: 40px; /* Set your preferred size */
+      height: 40px; /* Set your preferred size */
+      text-align: center;
+      font-weight: bolder;
+    }
+    .btn-green {
+      background-color: #28a745; /* Green color */
+      color: #fff; /* White text */
+    }
+    .btn-red {
+      background-color: #dc3545; /* Red color */
+      color: #fff; /* White text */
+    }
